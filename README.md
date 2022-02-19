@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there! :wave:
 
 I'm Bhavik and I'm a self-taught data scientist. I'm especially interested in the intersection of data science :bar_chart: and sustainability :earth_africa:. 
