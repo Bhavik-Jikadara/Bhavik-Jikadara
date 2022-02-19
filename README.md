@@ -8,17 +8,15 @@ I'm Bhavik and I'm a self-taught data scientist. I'm especially interested in th
 
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/JupterNotebook-informational?style=flat&logo=vscode&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/MachineLearning-Supervised-informational?style=flat&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/MachineLearning-Unsupervised-informational?style=flat&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-PyTorchLightning-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/NLP-HuggingFace-informational?style=flat&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataVisualization-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataVisualization-Seaborn-informational?style=flat&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2CD4A7)
 
 <!--
