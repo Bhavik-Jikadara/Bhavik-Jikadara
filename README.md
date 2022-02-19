@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+# Hi there! :wave:
+
+I'm Bhavik and I'm a self-taught data scientist. I'm especially interested in the intersection of data science :bar_chart: and sustainability :earth_africa:. 
+
+[![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianikulski&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/julianikulski/github-readme-stats)
+
+## Skills and Tools:
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/MachineLearning-Supervised-informational?style=flat&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/MachineLearning-Unsupervised-informational?style=flat&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DeepLearning-PyTorchLightning-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/NLP-HuggingFace-informational?style=flat&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2CD4A7)
+
 <!--
 **Bhavik-Jikadara/Bhavik-Jikadara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
