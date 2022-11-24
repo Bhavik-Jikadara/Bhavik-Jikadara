@@ -4,8 +4,8 @@ I'm Bhavik and I'm a self-taught data scientist. I'm especially interested in th
 
 [![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavik-Jikadara&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-UPI id: 9687522696@upi
-Donate: https://www.paypal.com/paypalme/bhavikjikadara
+* UPI id: 9687522696@upi
+* Donate: https://www.paypal.com/paypalme/bhavikjikadara
 
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2a2e3d)
