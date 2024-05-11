@@ -2,6 +2,7 @@
 
 I'm Bhavik and I'm a self-taught data scientist. I'm especially interested in the intersection of data science :bar_chart: and sustainability :earth_africa:. 
 
+## Donate & Support:
 * UPI id: 9687522696@upi
 * Donate: https://www.paypal.com/paypalme/bhavikjikadara
 
