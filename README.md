@@ -1,6 +1,15 @@
 # Hi there! :wave:
 
-I'm Bhavik and I'm a self-taught data scientist. I'm especially interested in the intersection of data science :bar_chart: and sustainability :earth_africa:. 
+I’m an AI/ML and MLOps expert, specializing in developing cutting-edge solutions to optimize data retrieval and improve the lifecycle of machine learning models. My focus is on creating advanced chatbots 🤖 and contributing to innovative AI projects 🚀.
+
+With a deep understanding of the full stack of AI development, from data engineering and model training to deployment and monitoring, I collaborate with diverse teams to drive technological advancements. I’m passionate about applying the latest AI techniques to solve real-world problems and transform industries 🌍.
+
+Key areas of expertise include:
+
+- **Designing Efficient Data Pipelines 📊**: Crafting optimized vector databases for rapid data retrieval.
+- **MLOps Best Practices 🛠️**: Enhancing the performance and cost-effectiveness of machine learning models.
+- **Intelligent Systems Development 🌐**: Leveraging streaming data and deploying lightweight models at the edge.
+
 
 ## Donate & Support:
 * UPI id: 9687522696@upi
@@ -18,18 +27,3 @@ I'm Bhavik and I'm a self-taught data scientist. I'm especially interested in th
 ![](https://img.shields.io/badge/DataVisualization-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2a2e3d)
 ![](https://img.shields.io/badge/DataVisualization-Seaborn-informational?style=flat&logoColor=white&color=2a2e3d)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2a2e3d)
-
-<!--
-**Bhavik-Jikadara/Bhavik-Jikadara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
