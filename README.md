@@ -11,7 +11,7 @@ Key areas of expertise include:
 - **Intelligent Systems Development 🌐**: Leveraging streaming data and deploying lightweight models at the edge.
 
 
-## Donate & Support:
+## Support:
 * UPI id: 9687522696@upi
 * Donate: https://www.paypal.com/paypalme/bhavikjikadara
 
